@@ -1,0 +1,16 @@
+2022-12-30 16:00:49,122:0    md994955@gmail.com
+Name: Email, dtype: object
+2022-12-30 16:00:49,131:0    2*chips\r\n4*chocolates
+Name: Order Details, dtype: object
+2022-12-30 16:39:11,474:0    md994955@gmail.com
+Name: Email, dtype: object
+2022-12-30 16:39:11,490:0    2*chips\r\n4*chocolates
+Name: Order Details, dtype: object
+2022-12-30 19:35:31,857:0    md994955@gmail.com
+1    gdiuwqgi@gmail.com
+2    md994955@gmail.com
+Name: Email, dtype: object
+2022-12-30 19:35:31,857:0    2*chips\r\n4*chocolates
+1                     t7tiut
+2                      bingo
+Name: Order Details, dtype: object

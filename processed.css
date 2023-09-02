@@ -1,0 +1,22 @@
+img{
+    padding-left: 150px;
+    width: 1150px;
+}
+.paybtn
+{
+    padding-left: 1050px;  
+    position: relative;
+    top: -130px;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.backbtn
+{
+    padding-left: 200px;  
+    position: relative;
+    bottom: 720px;
+    
+}
